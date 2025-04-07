@@ -1,4 +1,5 @@
 riyaz khan
-this is new text
+this is old text
 this is fourth line
 this is conflict2
+this is new text of old file
