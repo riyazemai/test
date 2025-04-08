@@ -1,5 +1,4 @@
 =====riyaz khan
 this ======is old text
 this is jfkm line
-this is ====conflict2
-this is completly new line in fsfgd branch
+this is gjofig completly new line in fsfgd branch
