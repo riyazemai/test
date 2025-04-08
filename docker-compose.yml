@@ -1,0 +1,22 @@
+version: '3'
+
+services:
+  flask-app:
+    build: ./flask-app
+    ports:
+      - "8111:8111"
+    networks:
+      - app-network
+
+  fastapi-app:
+    build: ./fastapi-app
+    ports:
+      - "8222:8222"
+    depends_on:
+      - flask-app
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
