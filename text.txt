@@ -1,5 +1,5 @@
-riyaz khan
+Riyaz khan 
 this is old text
-this is fourth line
+this is third line
 this is conflict2
-this is completly new line in f4 branch
+this is completly new line in f4 branchs
